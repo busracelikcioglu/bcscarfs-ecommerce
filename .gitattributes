@@ -1,0 +1,20 @@
+# Hide auto-generated Supabase files from GitHub language stats
+src/integrations/supabase/client.ts linguist-generated=true
+src/integrations/supabase/types.ts linguist-generated=true
+
+# Hide config files from language stats
+vite.config.ts linguist-vendored=true
+vitest.config.ts linguist-vendored=true
+tsconfig.json linguist-vendored=true
+tsconfig.app.json linguist-vendored=true
+tsconfig.node.json linguist-vendored=true
+components.json linguist-vendored=true
+tailwind.config.js linguist-vendored=true
+postcss.config.js linguist-vendored=true
+eslint.config.js linguist-vendored=true
+
+# Ensure CSS is detected
+src/index.css linguist-detectable=true
+
+# Mark HTML
+index.html linguist-detectable=true
