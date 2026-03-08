@@ -1,4 +1,4 @@
-# BC Scarf – E-Ticaret Web Sitesi
+# bcscarfs-e-ticaret
 
 Şık ve kaliteli eşarp koleksiyonları sunan modern bir e-ticaret platformu.
 
